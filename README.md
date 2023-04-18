@@ -88,7 +88,7 @@ https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 
 **Arduino Libraries Needed:**
 
-- SoftwareSerial  - Included in the Download
+- SoftwareSerial - Included in the Download
 - DFRobotDFPlayerMini - Included in the download
 
 **TDTroniX V1.0 Arduino Thermal Detonator Code:**
@@ -108,9 +108,9 @@ https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 
 3. File Open and locate the Arduino-Thermal-Detonator-V1.0 Directory and open the Load the Arduino-Thermal-Detonator-V1.0.ino file.
 
-4. Under Tools Select Board > Seeed > Seeeduino XIAO
+4. Select Tools: Board: and select Seeeduino XIAO
 
-5. Select Tools: PORT and Select the COM Port your Seeeduino XIAO board is plugged in to.
+5. Select Tools: PORT: and Select the COM Port your Seeeduino XIAO board is plugged in to.
 
 6. Select Tools: Programmer: and choose AVRISP mkII.
 
