@@ -110,7 +110,7 @@ https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 
 4. Select Tools: Board: and select Seeeduino XIAO
 
-5. Select Tools: PORT: and Select the COM Port your Seeeduino XIAO board is plugged in to.
+5. Select Tools: Port: and Select the COM Port your Seeeduino XIAO board is plugged in to.
 
 6. Select Tools: Programmer: and choose AVRISP mkII.
 
